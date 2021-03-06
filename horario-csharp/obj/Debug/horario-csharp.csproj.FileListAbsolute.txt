@@ -1,0 +1,13 @@
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\bin\Debug\horario-csharp.exe
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\bin\Debug\horario-csharp.pdb
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\bin\Debug\MetroFramework.Design.dll
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\bin\Debug\MetroFramework.dll
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario-csharp.csprojAssemblyReference.cache
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario_csharp.TelaInicial.resources
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario_csharp.Properties.Resources.resources
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario-csharp.csproj.GenerateResource.cache
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario-csharp.csproj.CopyComplete
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario-csharp.exe
+C:\Users\Levi Akreman\source\repos\debug-tools\horario-csharp\horario-csharp\obj\Debug\horario-csharp.pdb
