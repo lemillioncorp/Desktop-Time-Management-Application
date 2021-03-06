@@ -52,6 +52,7 @@ namespace horario_csharp
         private void FotoModoLight_Click(object sender, EventArgs e)
         {
             fotoMenuModoLight.Visible = true;
+	    this.fotoMenuModoLight.Location = new System.Drawing.Point(10, 46);
             fotoMenu.Visible = false;
             this.Theme = MetroFramework.MetroThemeStyle.Light;
             this.painelMenu.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -81,7 +82,7 @@ namespace horario_csharp
         }
         private void TelaInicial_Leave(object sender, EventArgs e)
         {
-           // MostarMenu();
+          
         }
 
         private void FotoMenu_MouseLeave(object sender, EventArgs e)
